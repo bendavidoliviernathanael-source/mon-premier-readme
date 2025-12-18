@@ -52,6 +52,7 @@ Pour accéder à la table des matières du fichier readme.md, avec github, cliqu
 1. Créez un tableau : ID, Description, Statut ( :white_check_mark: :x: ), Priorité  
 2. Ajoutez une liste de tâches checkboxes
 
+réponses
 1. tableau
 
 | ID | Description | Statut | Priorité| 
@@ -67,6 +68,7 @@ Pour accéder à la table des matières du fichier readme.md, avec github, cliqu
 
 1. Suivez le template complet avec badges, sections dépliables, emojis
 
+réponse
 1.
 
 Badges : 
