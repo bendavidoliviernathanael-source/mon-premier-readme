@@ -1,4 +1,4 @@
-# mon-premier-readme
+  # mon-premier-readme
 Ceci est un dépôt élaboré dans le contexte d'un exercice relatif à l'élaboration d'un readme.md.
 
 ## Exercice 1 : Mon premier README
@@ -44,3 +44,22 @@ vidéo youtube :
 
 Pour accéder à la table des matières du fichier readme.md, avec github, cliquer sur 
 ![Texte alt](image.png)
+
+
+
+## Exercice 3 : Tableau de tests QA
+
+1. Créez un tableau : ID, Description, Statut ( :white_check_mark: :x: ), Priorité  
+2. Ajoutez une liste de tâches checkboxes
+
+1. tableau
+
+| ID | Description | Statut | Priorité| 
+|----------|----------|----------|----------| 
+|||||
+
+2. liste de tâches checkboxes
+
+- [x] Tâche terminée
+- [ ] Tâche à faire
+
