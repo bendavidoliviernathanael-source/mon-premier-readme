@@ -63,3 +63,32 @@ Pour accéder à la table des matières du fichier readme.md, avec github, cliqu
 - [x] Tâche terminée
 - [ ] Tâche à faire
 
+## Exercice 4 : README professionnel
+
+1. Suivez le template complet avec badges, sections dépliables, emojis
+
+1.
+
+Badges : 
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![Tests](https://img.shields.io/badge/tests-passing-green)
+
+Sections dépliables :
+<details>
+<summary>Cliquez pour voir plus</summary>
+Contenu caché ici...
+</details>
+
+<details>
+<summary>Une autre section dépliable</summary>
+Le contenu de cette autre section dépliable
+</details>
+
+Emojis : 
+
+(:rocket: , :star:, :grinning:)
+
+
+
+
+
