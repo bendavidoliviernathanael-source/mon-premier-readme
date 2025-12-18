@@ -40,3 +40,8 @@ vidéo youtube :
 [![Alt](istockphoto-1443562748-612x612.jpg)](https://www.youtube.com/watch?v=9Zr7S0kHcmo)
 
 
+3.
+
+Pour accéder à la table des matières du fichier readme.md, avec github, cliquer sur 
+
+
