@@ -43,5 +43,4 @@ vidéo youtube :
 3.
 
 Pour accéder à la table des matières du fichier readme.md, avec github, cliquer sur 
-
-
+![Texte alt](image.png)
