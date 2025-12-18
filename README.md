@@ -33,4 +33,9 @@ réponses
 1. [mon profil github](https://github.com/bendavidoliviernathanael-source)
 2.
 
-image cliquable : [![Alt](img.png)]([istockphoto-1443562748-612x612.jpg](istockphoto-1443562748-612x612.jpg))
+image cliquable : [![Alt](istockphoto-1443562748-612x612.jpg)](istockphoto-1443562748-612x612.jpg)
+
+
+
+
+
